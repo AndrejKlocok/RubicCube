@@ -1,0 +1,8 @@
+old/
+tests/
+testy/
+*.out
+*.txt
+*.in
+*.o
+flp18-log
